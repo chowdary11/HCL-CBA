@@ -7,3 +7,5 @@ third line added in feature branch cba-f2
 fourth line added after merge in github...!
 
 Forking and merging...!
+
+clone and pull request...!
